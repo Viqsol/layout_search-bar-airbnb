@@ -26,13 +26,13 @@ body {
 .bar__search {
   box-sizing: border-box;
   font-family: Avenir, sans-serif;
+  margin-top: 20px;
 }
 
 .bar__input {
   box-sizing: inherit;
   font-family: inherit;
   display: block;
-  margin-top: 20px;
   width: 100%;
   border: 1px solid #e1e7ed;
   border-radius: 4px;
